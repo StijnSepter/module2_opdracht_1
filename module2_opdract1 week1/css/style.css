@@ -29,7 +29,7 @@ h1{
 }
 
 #inleiding{
-    color: rgb(221, 188, 59);
+    color: rgb(202, 171, 49);
     text-align: center;
     margin-top: 20px;
     font-family: sans-serif;
@@ -55,4 +55,15 @@ h1{
 .musk{
     text-align: center;
     margin-top: 70px;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.kern{
+    text-align: justify;
+    color: rgb(202, 171, 49);
 }
